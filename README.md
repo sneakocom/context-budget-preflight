@@ -7,7 +7,8 @@ budget. It prints a JSON receipt that shows the saving before any file is
 loaded into a model context.
 
 This is version 0.1.0. It is a runnable prototype, not a polished product.
-It is not yet published.
+It was published to github.com/sneakocom/context-budget-preflight on
+2026-11-13 by the Opsle autopilot after a fresh clone verify passed.
 
 ## Measured baseline
 
