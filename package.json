@@ -1,0 +1,17 @@
+{
+  "bin": {
+    "cbp": "bin/cbp.js"
+  },
+  "description": "Deterministic preflight that plans context inclusion and shows token savings before loading files into a model context.",
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "name": "context-budget-preflight",
+  "scripts": {
+    "example": "node bin/cbp.js plan examples/manifest.json --budget 120",
+    "test": "node --test test/plan.test.js"
+  },
+  "type": "commonjs",
+  "version": "0.1.0"
+}

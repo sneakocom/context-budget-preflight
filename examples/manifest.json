@@ -1,0 +1,1 @@
+[{"kind":"fact","name":"status-facts","path":"docs/status.md","pattern":"^(version|status|revision):"},{"kind":"prose","name":"guide","path":"docs/guide.md"},{"kind":"prose","name":"notes","path":"docs/notes.md"},{"kind":"prose","name":"readme","path":"../README.md"}]
